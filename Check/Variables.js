@@ -10,4 +10,7 @@ Prefer not to use var beacause of issue in block scope and functional scope
 
 */
 const v=0;
-console.log(v)
+// console.log(v)
+
+var conso
+console.log(conso)
